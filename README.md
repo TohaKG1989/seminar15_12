@@ -6,3 +6,5 @@
 отправка из локалного в удаленный репозиторий 
 ## change from local repository
 git push 
+## change from remote 
+Git pull
