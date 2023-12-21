@@ -8,3 +8,4 @@
 git push 
 ## change from remote 
 Git pull
+Change from Ryskulov
